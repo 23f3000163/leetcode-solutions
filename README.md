@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/23f3000163/leetcode-solutions/tree/master/0048-rotate-image) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/23f3000163/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/23f3000163/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
