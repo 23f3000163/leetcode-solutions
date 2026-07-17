@@ -18,10 +18,6 @@ class Solution {
             else if (arr[mid] < arr[mid + 1]) {
                 s = mid + 1;
             }
-
-            else {
-                ans = mid;
-            }
         }
         return ans;
     }
