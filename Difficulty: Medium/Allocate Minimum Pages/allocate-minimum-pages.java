@@ -6,10 +6,14 @@ class Solution {
         long pages = 0;
 
         for (int i = 0; i < arr.length; i++) {
+            
+            // If a single book has more pages than maxPages,
+            // this allocation is impossible.
 
-            if (arr[i] > maxPages)
+            if (arr[i] > maxPages) {
                 return false;
-
+            }
+            
             if (pages + arr[i] <= maxPages) {
                 pages += arr[i];
             } else {
@@ -27,17 +31,19 @@ class Solution {
     public int findPages(int[] arr, int k) {
 
         int n = arr.length;
-
+        
+        // when the books are less than number of students
         if (k > n)
             return -1;
 
         long low = 0;
-        long high = 0;
+        long sum = 0;
 
-        for (int x : arr) {
-            low = Math.max(low, (long)x);
-            high += x;
+        for(int i = 0; i < n; i++) {
+            sum += arr[i];
         }
+        
+        long high = sum;
 
         long ans = -1;
 
