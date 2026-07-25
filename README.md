@@ -48,6 +48,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/23f3000163/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/23f3000163/leetcode-solutions/tree/master/0069-sqrtx) |
+| [3536-maximum-product-of-two-digits](https://github.com/23f3000163/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/23f3000163/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@
 | [0075-sort-colors](https://github.com/23f3000163/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/23f3000163/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
