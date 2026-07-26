@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23f3000163/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23f3000163/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/23f3000163/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/23f3000163/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/23f3000163/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/23f3000163/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -80,6 +82,7 @@
 | [0016-3sum-closest](https://github.com/23f3000163/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/23f3000163/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/23f3000163/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
