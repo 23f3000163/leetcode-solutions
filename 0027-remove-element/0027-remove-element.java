@@ -25,6 +25,6 @@ class Solution {
                 return x;
             }
         }
-        return x + 1;
+        return x;
     }
 }
