@@ -88,6 +88,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23f3000163/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@
 | [0076-minimum-window-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/23f3000163/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/23f3000163/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -150,6 +152,7 @@
 | [0344-reverse-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/23f3000163/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -179,6 +182,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/23f3000163/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/23f3000163/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/23f3000163/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
