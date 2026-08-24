@@ -25,6 +25,7 @@ class Solution {
             char ch = s2.charAt(j);
             window.put(ch, window.getOrDefault(ch, 0) + 1);
 
+            // Make window size correct
             if ( j - i + 1 > n) {
                 window.put(s2.charAt(i), window.get(s2.charAt(i)) - 1);
 
@@ -33,7 +34,7 @@ class Solution {
                 }
                 i++;
             }
-            
+            // Check current window
             if (j - i + 1 ==n) {
 
                 if (window.equals(freq)) {
