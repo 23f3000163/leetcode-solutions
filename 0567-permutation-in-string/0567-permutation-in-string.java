@@ -17,11 +17,10 @@ class Solution {
 
         int i = 0;
         int windowlength = n;
-        int j = 0;
 
         HashMap<Character, Integer> window = new HashMap<>();
 
-        for (j = 0 ; j < m; j++) {
+        for (int j = 0 ; j < m; j++) {
             char ch = s2.charAt(j);
             window.put(ch, window.getOrDefault(ch, 0) + 1);
 
