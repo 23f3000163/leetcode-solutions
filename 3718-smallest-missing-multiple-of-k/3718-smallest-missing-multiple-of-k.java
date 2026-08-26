@@ -4,14 +4,17 @@ class Solution {
 
         Set<Integer> st = new HashSet<>();
 
-        for (int i: nums){
-            st.add(i);
+        for (int i = 0; i < n; i++) {
+            if(nums[i] % k == 0) {
+                st.add(nums[i]);
+            }
         }
-
+        
         int val = k;
-        while(st.contains(val)) {
+        while (st.contains(val)) {
             val = val + k;
         }
+
         return val;
     }
 }
