@@ -71,6 +71,7 @@
 | [0877-stone-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/23f3000163/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/23f3000163/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/23f3000163/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -123,6 +124,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/23f3000163/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -198,6 +200,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
@@ -212,4 +215,12 @@
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
