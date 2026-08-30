@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23f3000163/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23f3000163/leetcode-solutions/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23f3000163/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/23f3000163/leetcode-solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -112,6 +114,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23f3000163/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/23f3000163/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -252,4 +255,13 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/23f3000163/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
