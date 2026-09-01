@@ -76,6 +76,7 @@
 | [0069-sqrtx](https://github.com/23f3000163/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/23f3000163/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0877-stone-game) |
@@ -234,6 +235,7 @@
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Euclidean Algorithm
@@ -260,6 +262,7 @@
 | [0002-add-two-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/23f3000163/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0445-add-two-numbers-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/23f3000163/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
