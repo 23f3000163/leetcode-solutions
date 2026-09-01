@@ -36,6 +36,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/23f3000163/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/23f3000163/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/23f3000163/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -59,6 +60,7 @@
 | [0074-search-a-2d-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/23f3000163/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0904-fruit-into-baskets](https://github.com/23f3000163/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/23f3000163/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
@@ -269,8 +272,13 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
