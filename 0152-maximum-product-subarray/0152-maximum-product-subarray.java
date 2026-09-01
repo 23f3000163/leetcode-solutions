@@ -9,6 +9,7 @@ class Solution {
         for (int i = 1; i < n; i++) {
 
             int tempMax = currentMax;
+            // backup/copy of the old currentMax, so we can use the old value after currentMax has been updated.
             
             currentMax = Math.max(nums[i], Math.max(currentMax * nums[i], currentMin * nums[i]));
 
