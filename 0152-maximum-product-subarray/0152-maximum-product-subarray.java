@@ -15,7 +15,7 @@ class Solution {
 
             currentMin = Math.min(nums[i], Math.min(tempMax * nums[i], currentMin * nums[i]));
 
-            maxProduct = Math.max(maxProduct, currentMax);
+            maxProduct = Math.max(maxProduct, Math.max(currentMax, currentMin));
         }
         return maxProduct;
     }
