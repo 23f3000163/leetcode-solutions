@@ -35,6 +35,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/23f3000163/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/23f3000163/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/23f3000163/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -57,6 +58,7 @@
 | [0877-stone-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/23f3000163/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/23f3000163/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
