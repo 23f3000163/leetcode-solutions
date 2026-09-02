@@ -9,7 +9,6 @@ class Solution {
         int minResult = min;
 
         int totalSum = nums[0];
-        int result = 0;
 
         for (int i = 1; i < n; i++) {
             totalSum = totalSum + nums[i];
@@ -24,14 +23,12 @@ class Solution {
             minResult = Math.min(minResult, min);
         }
 
-        if (totalSum == minResult) {
-            result = totalSum;
+        if (maxResult < 0) {
+            return maxResult;
         }
-        else {
-            result = totalSum - minResult;
-        }
+        int circular = totalSum - minResult;
  
-        int ans = Math.max(result, maxResult);
+        int ans = Math.max(circular, maxResult);
         
         return ans;
     }
