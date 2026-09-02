@@ -13,11 +13,11 @@ class Solution {
         for (int i = 1; i < n; i++) {
             totalSum = totalSum + nums[i];
             
-            int prevMax = max;
-            int prevMin = min;
+            //int prevMax = max;
+            //int prevMin = min;
 
-            max = Math.max(nums[i] , prevMax + nums[i]);
-            min = Math.min(nums[i] , prevMin + nums[i]);
+            max = Math.max(nums[i] , max + nums[i]);
+            min = Math.min(nums[i] , min + nums[i]);
 
             maxResult = Math.max(maxResult, max);
             minResult = Math.min(minResult, min);
