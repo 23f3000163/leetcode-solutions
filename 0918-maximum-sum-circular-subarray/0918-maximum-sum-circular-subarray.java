@@ -4,19 +4,19 @@ class Solution {
         int max = nums[0]; // Best subarray sum ending here
         int min = nums[0]; // Smallest subarray sum ending here
 
-        int maxResult = max; // Maximum subarray sum found so far
-        int minResult = min; // Minimum subarray sum found so far
+        int maxResult = nums[0]; // Maximum subarray sum found so far
+        int minResult = nums[0]; // Minimum subarray sum found so far
 
-        int totalSum = nums[0];
+        int totalSum = nums[0]; // Sum of all elements
 
         for (int i = 1; i < nums.length; i++) {
-            totalSum = totalSum + nums[i];
+            totalSum = totalSum + nums[i];  // Add current element to total sum
             
-            int prevMax = max;
-            int prevMin = min;
-
-            max = Math.max(nums[i] , prevMax + nums[i]);
-            min = Math.min(nums[i] , prevMin + nums[i]);
+            //int prevMax = max;
+            //int prevMin = min;
+            
+            max = Math.max(nums[i] , max + nums[i]);
+            min = Math.min(nums[i] , min + nums[i]);
 
             maxResult = Math.max(maxResult, max);
             minResult = Math.min(minResult, min);
@@ -27,8 +27,6 @@ class Solution {
         }
         int circular = totalSum - minResult;
  
-        int ans = Math.max(circular, maxResult);
-        
-        return ans;
+        return Math.max(circular, maxResult);
     }
 }
