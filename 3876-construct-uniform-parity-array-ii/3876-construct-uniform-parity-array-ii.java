@@ -13,19 +13,14 @@ class Solution {
             }
         }
 
-        // If there are no odd numbers, all numbers are already even.
         if (smallestOdd == Integer.MAX_VALUE) {
             return true;
         }
 
-        // If there are no even numbers, all numbers are already odd.
         if (smallestEven == Integer.MAX_VALUE) {
             return true;
         }
-
-        // Mixed parity:
-        // We can make every even number odd only if
-        // there is an odd number smaller than every even number.
+        
         return smallestOdd < smallestEven;
     }
 }
