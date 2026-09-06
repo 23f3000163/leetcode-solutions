@@ -57,6 +57,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/23f3000163/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/23f3000163/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/23f3000163/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -191,6 +192,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/23f3000163/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/23f3000163/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/23f3000163/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0344-reverse-string) |
