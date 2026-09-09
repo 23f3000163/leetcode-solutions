@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23f3000163/leetcode-solutions/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/23f3000163/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0877-stone-game) |
@@ -331,10 +333,15 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
