@@ -46,6 +46,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/23f3000163/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/23f3000163/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/23f3000163/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -256,6 +257,7 @@
 | [0904-fruit-into-baskets](https://github.com/23f3000163/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/23f3000163/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -263,6 +265,7 @@
 | ------- |
 | [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 | [0002-add-two-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/23f3000163/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
