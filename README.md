@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/23f3000163/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/23f3000163/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/23f3000163/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -369,4 +370,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/23f3000163/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
