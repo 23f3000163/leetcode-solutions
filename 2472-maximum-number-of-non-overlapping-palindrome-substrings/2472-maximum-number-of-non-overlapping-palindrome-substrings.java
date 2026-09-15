@@ -1,14 +1,14 @@
 class Solution {
-
-    public boolean isPalindrome(String s, int i, int j) {
-        while(i <= j) {
-            if (s.charAt(i++) != s.charAt(j--)) {
-                return false;
+    boolean[][] isPalindrome;
+    // public boolean isPalindrome(String s, int i, int j) {
+    //     while(i <= j) {
+    //         if (s.charAt(i++) != s.charAt(j--)) {
+    //             return false;
   
-            }
-        }
-        return true;
-    }
+    //         }
+    //     }
+    //     return true;
+    // }
 
 
     public int solve(String s, int k, int i, int j, int[][] dp) {
@@ -22,7 +22,7 @@ class Solution {
             return dp[i][j];
         }
 
-        if (isPalindrome(s, i, j)) {
+        if (isPalindrome[i][j]) {
             int take = 1 + solve(s, k, j+1, j+k, dp);
             int grow = solve(s, k, i, j+1, dp);
             int slide = solve(s, k, i+1, j+1, dp);
@@ -45,7 +45,23 @@ class Solution {
             return n;
         }
 
-        int[][] dp = new int[n + 1][n + 1];
+        isPalindrome = new boolean[n + 1][n + 1];
+        //Palindromic substring Blueprint
+        for (int L = 1; L <= n; L++) {
+            for (int i = 0; i + L <= n; i++) {
+                int j = i + L - 1;
+
+                if (i == j) {
+                    isPalindrome[i][i] = true; //Single characters are palindrome
+                } else if (i + 1 == j) {
+                    isPalindrome[i][j] = (s.charAt(i) == s.charAt(j)); //Strings of 2 Length
+                } else {
+                    isPalindrome[i][j] = (s.charAt(i) == s.charAt(j)) && isPalindrome[i + 1][j - 1];
+                }
+            }
+        }
+
+        int[][] dp = new int[n][n];
         for (int[] row : dp) Arrays.fill(row, -1);
 
         return solve(s, k, 0, k-1, dp);
