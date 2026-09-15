@@ -1,15 +1,5 @@
 class Solution {
     boolean[][] isPalindrome;
-    // public boolean isPalindrome(String s, int i, int j) {
-    //     while(i <= j) {
-    //         if (s.charAt(i++) != s.charAt(j--)) {
-    //             return false;
-  
-    //         }
-    //     }
-    //     return true;
-    // }
-
 
     public int solve(String s, int k, int i, int j, int[][] dp) {
         int n = s.length();
