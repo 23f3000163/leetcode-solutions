@@ -84,6 +84,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/23f3000163/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/23f3000163/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/23f3000163/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
@@ -116,6 +117,7 @@
 | [0877-stone-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/23f3000163/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/23f3000163/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -197,6 +199,7 @@
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/23f3000163/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
@@ -380,4 +383,8 @@
 | [0039-combination-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
