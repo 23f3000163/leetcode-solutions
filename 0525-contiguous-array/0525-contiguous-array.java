@@ -18,7 +18,7 @@ class Solution {
             diff = zeros - ones;
 
             if (freq.containsKey(diff)) {
-                result = Math.max(result, i - freq.getOrDefault(diff, 0));
+                result = Math.max(result, i - freq.get(diff));
             }
             else {
                 freq.put(diff, i);
