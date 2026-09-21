@@ -1,28 +1,21 @@
 class Solution {
     public long[] resultArray(int[] nums, int k) {
-        int n = nums.length;
-
         long[] result = new long[k];
-        long[] prevCount = new long[k];
+        long[] dp = new long[k];
 
-        for (int i = 0; i < n; i++) {
+        for (int num : nums) {
+            int rem = num % k;
+            long[] next = new long[k];
+            next[rem]++;
 
-            //index i par end hone waale all subarrays
-            long[] currCount = new long[k];
-
-            int currElementRemainder = nums[i] % k;
-            currCount[currElementRemainder]++;
-
-            for (int oldRem = 0; oldRem <= k - 1; oldRem++) {
-                int newRemain = (int) (((long) oldRem * nums[i] % k) % k);
-
-                currCount[newRemain] += prevCount[oldRem];
+            for (int r = 0; r < k; r++) {
+                next[(r * rem) % k] += dp[r];
             }
 
-            prevCount = currCount;
+            dp = next;
 
-            for (int x = 0; x <= k - 1; x++) {
-                result[x] += prevCount[x];
+            for (int r = 0; r < k; r++) {
+                result[r] += dp[r];
             }
         }
 
