@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/23f3000163/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/23f3000163/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0055-jump-game) |
@@ -407,9 +408,14 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/23f3000163/leetcode-solutions/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/23f3000163/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/23f3000163/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
