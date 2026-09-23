@@ -17,7 +17,8 @@ class Solution {
                 index++;
                 insert = true;
             }
-            temp[index++] = Arrays.copyOf(intervals[i], intervals[i].length);
+            temp[index] = Arrays.copyOf(intervals[i], intervals[i].length);
+            index++;
         }
         if (!insert) {
             temp[index] = new int[]{newstart1, newend1};
