@@ -28,7 +28,7 @@ class Solution {
         int start1 = temp[0][0];
         int end1 = temp[0][1];
 
-        for (int i = 1;i < n + 1; i++) {
+        for (int i = 1;i < index; i++) {
         
             int start2 = temp[i][0];
             int end2 = temp[i][1];
