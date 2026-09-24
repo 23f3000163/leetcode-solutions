@@ -15,7 +15,6 @@ class Solution {
             int end2 = intervals[i][1];
 
             if (end1 >= start2) {
-                start1 = start1;
                 end1 = Math.max(end1, end2);
                 continue;
             }
