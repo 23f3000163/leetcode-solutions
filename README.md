@@ -350,6 +350,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/23f3000163/leetcode-solutions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -502,4 +503,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/23f3000163/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
