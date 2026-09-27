@@ -261,6 +261,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23f3000163/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/23f3000163/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -347,6 +348,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -493,4 +495,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/23f3000163/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
