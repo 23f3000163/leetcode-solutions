@@ -2,8 +2,7 @@ class Solution {
     public int maxDepth(String s) {
 
         int n = s.length();   
-        // Stack<Integer> digit = new Stack<>();
-        // Stack<Character> characters = new Stack<>();
+        
         int depth = 0;
         int maxDepth = 0;
 
