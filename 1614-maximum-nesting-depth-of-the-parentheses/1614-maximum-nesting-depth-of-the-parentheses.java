@@ -12,7 +12,7 @@ class Solution {
                 depth++;
                 maxDepth = Math.max(maxDepth, depth);
             }
-            if (ch == ')') {
+            else if (ch == ')') {
                 depth--;
             }
         }
