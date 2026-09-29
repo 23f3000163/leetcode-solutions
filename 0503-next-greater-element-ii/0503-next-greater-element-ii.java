@@ -4,20 +4,20 @@ class Solution {
         int[] ans = new int[n];
         Stack<Integer> stack = new Stack<>();
 
-        for (int i = 2*n - 1; i >= 0; i--) {
+        for (int i = n - 2; i >= 0; i--) {
+            stack.push(nums[i]);
+        }
+        for (int i = n - 1; i >= 0; i--) {
 
-            int current = nums[i % n];
-            while (!stack.isEmpty() && stack.peek() <= current) {
+            while (!stack.isEmpty() && stack.peek() <= nums[i]) {
                 stack.pop();
             } 
-            if (i < n) {
-                if (stack.isEmpty()) {
-                    ans[i] = -1;
-                } else {
-                    ans[i] = stack.peek();
-                }
+            if (stack.isEmpty()) {
+                ans[i] = -1;
+            } else {
+                ans[i] = stack.peek();
             }
-            stack.push(current);
+            stack.push(nums[i]);
         }
         return ans;
     }
