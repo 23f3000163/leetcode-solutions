@@ -7,22 +7,14 @@ class Solution {
         for (int i = 0; i < n; i++) {
             if (seq.charAt(i) == '(') {
                 d++;
-
-                if (d % 2 == 1) {
-                    ans[i] = 1;
-                } else {
-                    ans[i] = 0;
-                }  
             }
-            else {
-                if (d % 2 == 1) {
-                    ans[i] = 1;
-                } else {
-                    ans[i] = 0;
-                }  
+            ans[i] = d % 2;
+
+            if (seq.charAt(i) == ')') {
                 d--;
             }
         } 
+
         return ans;
     }
 }
