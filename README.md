@@ -270,6 +270,7 @@
 | [0125-valid-palindrome](https://github.com/23f3000163/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/23f3000163/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/23f3000163/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/23f3000163/leetcode-solutions/tree/master/0443-string-compression) |
@@ -299,6 +300,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -321,6 +323,7 @@
 | [0141-linked-list-cycle](https://github.com/23f3000163/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/23f3000163/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/23f3000163/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -420,6 +423,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
