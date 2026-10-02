@@ -1,44 +1,30 @@
 class Solution {
 
-    private boolean isValid(String current) {
-        int sum = 0;
-        for (char ch : current.toCharArray()) {
-            if (ch =='(') {
-                sum++;
-            } else {
-                sum--;
-            }
-            
-            if (sum < 0) {
-                return false;
-            }
-        }
-        return sum == 0;
-    }
-
-    private void solve(String current, int n, int length, List<String> result) {
-        if(length == 2*n) {
-            if(isValid(current)) {
-                result.add(current);
-            }
+    private void solve(String current, int n, List<String> result, int open, int close) {
+        if(current.length() == 2*n) {
+            result.add(current);
             return;
         }
 
-        current += '(';
-        solve(current, n, length + 1, result);
+        if (open < n) {
+            current += '(';
+            solve(current, n, result, open + 1, close);
+            //BACKTRACKING
+            current = current.substring(0, current.length() - 1);
+        }
 
-        //BACKTRACKING
-        current = current.substring(0, current.length() - 1);
-
-        current += ')';
-        solve(current, n, length + 1, result);
-
+        if (close < open) {
+            current += ')';
+            solve(current, n, result, open, close + 1);
+            //BACKTRACKING
+            current = current.substring(0, current.length() - 1);
+        }
     }
 
     public List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<>();
 
-        solve("", n, 0, result);
+        solve("", n, result, 0, 0);
         return result;
     }
 }
