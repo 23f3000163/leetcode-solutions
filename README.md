@@ -291,6 +291,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/23f3000163/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -309,6 +310,7 @@
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/23f3000163/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -344,6 +346,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/23f3000163/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/23f3000163/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
