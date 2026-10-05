@@ -127,6 +127,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/23f3000163/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/23f3000163/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -146,6 +147,7 @@
 | [1025-divisor-game](https://github.com/23f3000163/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1688-count-of-matches-in-tournament](https://github.com/23f3000163/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
