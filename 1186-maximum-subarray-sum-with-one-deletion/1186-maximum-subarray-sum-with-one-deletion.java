@@ -1,18 +1,20 @@
 class Solution {
     public int maximumSum(int[] arr) {
         int n = arr.length;
-        int noDelete = arr[0];
-        int oneDelete = 0;
-        int result = noDelete;
+        int noPower = arr[0];
+        int powerUse = 0;
+        int result = noPower;
 
         for (int i = 1; i < n; i++) {
-            int prevNodelete = noDelete;
-            int prevOnedelete = oneDelete;
+            int v1 = arr[i];
+            int v2 = noPower + arr[i];
+            int v3 = powerUse + arr[i]; 
+            int v4 = noPower;
 
-            noDelete = Math.max(arr[i] , arr[i] + prevNodelete);
+            result = Math.max(result, Math.max(Math.max(v1, v2), Math.max(v3, v4)));
 
-            oneDelete = Math.max(prevOnedelete + arr[i], prevNodelete);
-            result = Math.max(result, Math.max(noDelete, oneDelete));
+            noPower = Math.max(v1, v2);
+            powerUse = Math.max(v3, v4); 
         }
         
         return result;
