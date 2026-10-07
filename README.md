@@ -413,6 +413,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/23f3000163/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -425,6 +426,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/23f3000163/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
