@@ -10,7 +10,7 @@ class Solution {
         while(s <= e) {
             int mid = s + (e - s) / 2;
             
-            if (arr[mid] >= arr[mid + 1]) {
+            if (arr[mid] > arr[mid + 1]) {
                 ans = mid;
                 e = mid - 1;
             }
