@@ -575,4 +575,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/23f3000163/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
