@@ -71,6 +71,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/23f3000163/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/23f3000163/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/23f3000163/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/23f3000163/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -247,6 +248,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/23f3000163/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/23f3000163/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/23f3000163/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/23f3000163/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/23f3000163/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/23f3000163/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
