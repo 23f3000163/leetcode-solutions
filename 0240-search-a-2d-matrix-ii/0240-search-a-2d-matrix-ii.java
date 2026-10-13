@@ -11,9 +11,6 @@ class Solution {
                 return true;
             }
             if (matrix[rowIndex][colIndex] > target) {
-                if (rowIndex - 1 < 0) {
-                    return false;
-                }
                 rowIndex--;
             }
             else if (matrix[rowIndex][colIndex] < target) {
