@@ -14,9 +14,6 @@ class Solution {
                 rowIndex--;
             }
             else if (matrix[rowIndex][colIndex] < target) {
-                if (colIndex + 1 >= col) {
-                    return false;
-                }
                 colIndex++;
             }
         }
