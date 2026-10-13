@@ -15,25 +15,28 @@ class Solution {
         }
 
         Arrays.sort(ans);
-        int s = 0;
-        int e = n - 1;
         int target = k - 1;
-        int answer = 0;
+        int answer = ans[target];
+        // int s = 0;
+        // int e = n - 1;
+        // int target = k - 1;
+        // int answer = 0;
 
-        while (s <= e) {
-            int mid = s + (e - s) / 2;
+        // while (s <= e) {
+        //     int mid = s + (e - s) / 2;
 
-            if (mid == target) {
-                answer = ans[mid];
-                e = mid - 1;
-            }
-            else if (mid < target) {
-                s = mid + 1;
-            }
-            else {
-                e = mid - 1;
-            }
-        } 
+        //     if (mid == target) {
+        //         answer = ans[mid];
+        //         e = mid - 1;
+        //     }
+        //     else if (mid < target) {
+        //         s = mid + 1;
+        //     }
+        //     else {
+        //         e = mid - 1;
+        //     }
+        // } 
+        // return answer;
         return answer;
     }
 }
