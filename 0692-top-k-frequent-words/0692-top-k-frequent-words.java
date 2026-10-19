@@ -30,6 +30,7 @@ class Solution {
            } 
         );
 
+        // Step 3: Process distinct words
         for (String word : map.keySet()) {
             int freq = map.get(word);
             
@@ -39,20 +40,22 @@ class Solution {
                 pq.offer(curr);
                 continue;
             }
-
+             // Skip if the current word is less desirable
             if (curr.frequency < pq.peek().frequency ||
                 (curr.frequency == pq.peek().frequency &&
                  curr.word.compareTo(pq.peek().word) > 0)) {
                 continue;
             }
+            // Replace the least desirable word
             pq.poll();
             pq.offer(curr);
         }
-
+        // Step 4: Extract words
         int index = 0;
         while (!pq.isEmpty()) {
             ans.add(pq.poll().word);
         }
+         // Step 5: Reverse to get the required order
         Collections.reverse(ans);
         return ans;
     }
