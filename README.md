@@ -58,6 +58,7 @@
 | [0904-fruit-into-baskets](https://github.com/23f3000163/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/23f3000163/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/23f3000163/leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -102,6 +103,7 @@
 | [0493-reverse-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/23f3000163/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -167,6 +169,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/23f3000163/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/23f3000163/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -252,6 +255,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/23f3000163/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -366,6 +370,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/23f3000163/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -652,6 +657,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -673,4 +679,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/23f3000163/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
