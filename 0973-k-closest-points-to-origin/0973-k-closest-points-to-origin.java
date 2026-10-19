@@ -13,7 +13,7 @@ class Solution {
         int[][] ans = new int[k][2];
 
         PriorityQueue<Pair> pq = new PriorityQueue<>(
-        (a, b) -> Integer.compare(b.distance, a.distance)
+            (a, b) -> b.distance - a.distance
         );
 
         for (int[] point : points) {
