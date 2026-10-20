@@ -42,6 +42,7 @@
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/23f3000163/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0502-ipo](https://github.com/23f3000163/leetcode-solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -252,6 +253,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/23f3000163/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/23f3000163/leetcode-solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23f3000163/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/23f3000163/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -277,6 +279,7 @@
 | [0055-jump-game](https://github.com/23f3000163/leetcode-solutions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/23f3000163/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/23f3000163/leetcode-solutions/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23f3000163/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -371,6 +374,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/23f3000163/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/23f3000163/leetcode-solutions/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/23f3000163/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
