@@ -40,7 +40,6 @@ class Solution {
         while (!pq.isEmpty()) {
             Pair[] pulled = new Pair[pq.size()];
             int idx = 0;
-            //boolean executed = false;
             while (!pq.isEmpty()) {
                 Pair p = pq.peek();
                 pq.poll();
@@ -52,11 +51,11 @@ class Solution {
                         pq.offer(new Pair(p.freq - 1, ch));
                     }
                     free.put(ch, seat + n + 1);
-                    //executed = true;
                     break;
                 }
                 else {
-                    pulled[idx++] = p;
+                    pulled[idx] = p;
+                    idx++;
                 }
             }
             for (int i = 0; i < idx; i++) {
