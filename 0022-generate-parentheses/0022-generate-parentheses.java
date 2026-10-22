@@ -6,15 +6,13 @@ class Solution {
         }
 
         if (open < n) {
-            current += '(';
-            solve(current, n, result, open + 1, close); 
+            solve(current += '(', n, result, open + 1, close); 
             //BACKTRACK
             current = current.substring(0, current.length() - 1);
         }
 
         if (close < open) {
-            current += ')';
-            solve(current, n, result, open, close + 1);
+            solve(current += ')', n, result, open, close + 1);
             //BACKTRACK
             current = current.substring(0, current.length() - 1);
         }
