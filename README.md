@@ -184,6 +184,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/23f3000163/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/23f3000163/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/23f3000163/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/23f3000163/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/23f3000163/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/23f3000163/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -376,6 +377,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2409-count-days-spent-together](https://github.com/23f3000163/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/23f3000163/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/23f3000163/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23f3000163/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
