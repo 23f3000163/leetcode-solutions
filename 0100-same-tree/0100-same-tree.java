@@ -14,27 +14,15 @@
  * }
  */
 class Solution {
-
-    static boolean sameOrNot( TreeNode first, TreeNode second) {
-        if (first == null && second == null) {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if (p == null || q == null) {
+            return p == q;
+        }
+        if (p.val == q.val &&
+            isSameTree(p.left, q.left) &&
+            isSameTree(p.right, q.right)) {
             return true;
         }
-        if (first == null || second == null) {
-            return false;
-        }
-    
-        if (first.val != second.val) {
-            return false;
-        }
-        if (!sameOrNot(first.left, second.left)) {
-            return false;
-        }
-        if (!sameOrNot(first.right, second.right)) {
-            return false;
-        }
-        return true;
-    }
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        return sameOrNot(p, q);
+        return false;
     }
 }
