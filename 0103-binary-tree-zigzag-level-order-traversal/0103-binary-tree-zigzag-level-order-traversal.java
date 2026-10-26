@@ -35,7 +35,7 @@ class Solution {
                 if (leftToRight) {
                     level.add(node.val);
                 } else {
-                    level.add(0, node.val);
+                    level.add(0, node.val); // Here, 0 is the index where the value is inserted, so every new value goes at the beginning.
                 }
 
                 if (node.left != null) {
