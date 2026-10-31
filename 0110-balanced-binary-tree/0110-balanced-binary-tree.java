@@ -26,7 +26,7 @@ class Solution {
         int right = height(root.right);
 
         if (Math.abs(left - right) > 1) {
-            result =  false;
+            result = false;
         }
 
         int ans = 1 + Math.max(left, right);
