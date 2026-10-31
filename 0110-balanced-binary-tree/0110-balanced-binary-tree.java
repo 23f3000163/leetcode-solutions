@@ -34,21 +34,7 @@ class Solution {
     }
 
     public boolean isBalanced(TreeNode root) {
-    //     if (root == null) {
-    //         return true;
-    //     }
-
-    //     int leftSubTree = height(root.left);
-    //     int rightSubTree = height(root.right);
-
-    //     if (Math.abs(leftSubTree - rightSubTree) > 1) {
-    //         return false;
-    //     }
-    //     if (isBalanced(root.left) && isBalanced(root.right)) {
-    //         return true;
-    //     }
-    //    return false;
-    height(root);
-    return result;
+        height(root);
+        return result;
     }
 }
