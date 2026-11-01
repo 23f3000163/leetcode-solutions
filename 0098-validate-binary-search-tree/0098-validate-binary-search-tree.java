@@ -14,25 +14,30 @@
  * }
  */
 class Solution {
+
+    public boolean isValid = true;
+    public TreeNode prev = null;
     
-    public void inOrder(TreeNode root, List<Integer> result) {
+    public void inOrder(TreeNode root) {
         if (root == null) {
             return;
         }
-        inOrder(root.left, result);
-        result.add(root.val);
-        inOrder(root.right, result);
+        inOrder(root.left);
+        if (prev == null) {
+            prev = root;
+        }
+        else {
+            if (root.val <= prev.val) {
+                isValid = false;
+            }
+            prev = root;
+        }
+
+        inOrder(root.right);
     }
 
     public boolean isValidBST(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        inOrder(root, result); 
-
-        for (int i = 0; i < result.size() - 1; i++) {
-            if (result.get(i) >= result.get(i + 1)) {
-                return false;
-            }
-        }
-        return true;
+        inOrder(root); 
+        return isValid;        
     }
 }
