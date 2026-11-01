@@ -22,9 +22,10 @@ class Solution {
             return null;
         }
         // Get root from preorder
-        int value = preorder[idx++];
+        int value = preorder[idx];
         TreeNode root = new TreeNode(value);
-
+        idx++;
+        
         // Find root position in inorder
         int mid = map.get(value);
 
