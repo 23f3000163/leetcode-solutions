@@ -30,7 +30,7 @@ class Solution {
             if (root.val <= prev.val) {
                 isValid = false;
             }
-            prev = root;
+            prev = root; // Update every time
         }
 
         inOrder(root.right);
