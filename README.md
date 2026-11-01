@@ -585,6 +585,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/23f3000163/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/23f3000163/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -634,6 +635,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/23f3000163/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -680,6 +682,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/23f3000163/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
