@@ -14,26 +14,23 @@
  * }
  */
 class Solution {
-    public boolean isNull = false;
     public boolean isCompleteTree(TreeNode root) {
 
         if (root == null) {
             return false;
         }
-
+        
+        boolean isNull = false;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
         while(!queue.isEmpty()) {
             TreeNode node = queue.poll();
 
-            if (node == null && isNull == false) {
+            if (node == null) {
                 isNull = true;
                 continue;    
             } 
-            if (node == null && isNull == true) {
-                continue;
-            }
             if (node != null && isNull == true) {
                 return false;
             }
