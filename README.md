@@ -632,6 +632,7 @@
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/23f3000163/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -715,6 +716,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/23f3000163/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/23f3000163/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/23f3000163/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -853,6 +855,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/23f3000163/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/23f3000163/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/23f3000163/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -911,6 +914,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/23f3000163/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -920,4 +924,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
