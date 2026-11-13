@@ -449,6 +449,7 @@
 | [0502-ipo](https://github.com/23f3000163/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/23f3000163/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/23f3000163/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/23f3000163/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/23f3000163/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/23f3000163/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -635,6 +636,7 @@
 | [0322-coin-change](https://github.com/23f3000163/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/23f3000163/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/23f3000163/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -720,6 +722,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/23f3000163/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/23f3000163/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/23f3000163/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/23f3000163/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -919,11 +922,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/23f3000163/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/23f3000163/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/23f3000163/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/23f3000163/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/23f3000163/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## DP on Trees
 |  |
@@ -937,4 +942,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/23f3000163/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/23f3000163/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
