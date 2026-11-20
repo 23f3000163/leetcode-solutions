@@ -4,65 +4,55 @@ class Solution {
         return row >= 0 && row < n && col >= 0 && col < m;
     }
 
-    private boolean bfs(int[][] grid, int n, int m, int mid) {
-        int[] dx = {-1, 1, 0, 0};
-        int[] dy = {0, 0, 1, -1};
-
-        boolean[][] visited = new boolean[n][m];
-        for (int i = 0; i < n ; i++) {
-            Arrays.fill(visited[i], false);
-        }
-
-        Queue<int []> q = new LinkedList<>();
-        visited[0][0] = true;
-        q.offer(new int[]{0, 0});
-        while (!q.isEmpty()) {
-            int[] current = q.poll();
-            int row = current[0]; 
-            int col = current[1];
-
-            if (row == n - 1 && col == m - 1) {
-                return true;
-            }
-
-            for (int j = 0; j < 4; j++) {
-                int newRow = row + dx[j]; 
-                int newCol = col + dy[j];
-
-                if (isValid(newRow, newCol, n, m) && visited[newRow][newCol] == false && mid >= grid[newRow][newCol]) {
-                    q.offer(new int[]{newRow, newCol});
-                    visited[newRow][newCol] = true;
-                }
-            }
-        }
-        return false;
-    }
-
     public int swimInWater(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
 
-        int low = grid[0][0];
-        int high = grid[0][0];
-
+        int[][] dist = new int[n][m];
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                high = Math.max(high, grid[i][j]);
-            }
+            Arrays.fill(dist[i], Integer.MAX_VALUE);
         }
 
-        int result = 0;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        PriorityQueue<int []> pq = new PriorityQueue<>(
+            (a, b) -> Integer.compare(a[0], b[0])
+        );
 
-            if (bfs(grid, n, m, mid)) {
-                result = mid;
-                high = mid - 1;
+        int[] dx = {-1, 1, 0, 0};
+        int[] dy = {0, 0, 1, -1};
+
+        dist[0][0] = grid[0][0];
+        pq.offer(new int[]{grid[0][0], 0, 0});
+
+        while(!pq.isEmpty()) {
+            int[] current = pq.poll();
+            int effort = current[0];
+            int row = current[1];
+            int col = current[2];
+
+            if (effort > dist[row][col]) {
+                continue;
             }
-            else {
-                low = mid + 1;
+
+            if (row == n - 1 && col == m - 1) {
+                return effort;
+            }
+
+            for (int k = 0; k < 4; k++) {
+                int r = row + dx[k];
+                int c = col + dy[k];
+
+                if (!isValid(r, c, n, m)) {
+                    continue;
+                }
+                int Diff = grid[r][c];
+                int newEffort = Math.max(effort, Diff);
+
+                if (newEffort < dist[r][c]) {
+                    dist[r][c] = newEffort;
+                    pq.offer(new int[]{newEffort, r, c});
+                }
             }
         }
-        return result;
+        return 0;
     }
 }
