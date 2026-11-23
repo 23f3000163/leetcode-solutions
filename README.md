@@ -412,6 +412,7 @@
 | [0076-minimum-window-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/23f3000163/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/23f3000163/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/23f3000163/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/23f3000163/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/23f3000163/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/23f3000163/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -505,6 +506,7 @@
 | [0076-minimum-window-substring](https://github.com/23f3000163/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23f3000163/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23f3000163/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/23f3000163/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/23f3000163/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/23f3000163/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/23f3000163/leetcode-solutions/tree/master/0202-happy-number) |
@@ -646,6 +648,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/23f3000163/leetcode-solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/23f3000163/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/23f3000163/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/23f3000163/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/23f3000163/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -983,4 +986,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/23f3000163/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/23f3000163/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
